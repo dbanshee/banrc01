@@ -1,0 +1,11 @@
+[Unit]
+Description=BanRC Sync ESC
+
+[Service]
+Type=oneshot
+ExecStart=/banrc01/scripts/banrc-sync-esc.py 
+RemainAfterExit=false
+StandardOutput=journal
+
+[Install]
+WantedBy=multi-user.target
