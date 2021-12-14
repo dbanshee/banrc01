@@ -28,3 +28,9 @@ This project takes [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer) as a ba
 ### RPI 3B+
 
 ### nVidia Jetson
+
+
+## Training on Virtual Simulator
+ - <https://www.svlsimulator.com/>
+ - <https://www.svlsimulator.com/docs/plugins/bridge-plugins/>
+ - <https://github.com/lgsvl/simulator>
